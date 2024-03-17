@@ -13,5 +13,5 @@ gcc 4.c
 ```
 
 ### Схема:
-
+https://github.com/StepaKH/OS/blob/main/%D0%98%D0%94%D0%97_1/4/shema/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_4.drawio.pdf
 
