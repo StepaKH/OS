@@ -22,3 +22,5 @@ gcc handler.c -o handle
 ```
 
 ### Схема:
+![schema drawio](https://github.com/StepaKH/OS/assets/109822810/f9524a63-9237-4c37-86b3-c2c2dbf1428f)
+
