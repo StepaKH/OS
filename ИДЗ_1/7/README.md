@@ -13,4 +13,5 @@ gcc 7.c
 ```
 
 ### Схема:
-![Uploading image.png…]()
+![image](https://github.com/StepaKH/OS/assets/109822810/5e557d54-5112-43c1-8b7a-999356cbe9e5)
+
