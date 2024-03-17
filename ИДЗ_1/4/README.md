@@ -12,3 +12,6 @@ gcc 4.c
 ./a.out input/1.txt output/1.txt
 ```
 
+### Схема:
+
+
